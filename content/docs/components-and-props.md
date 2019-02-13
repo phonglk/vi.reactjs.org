@@ -1,6 +1,6 @@
 ---
 id: components-and-props
-title: Components and Props
+title: Components và Props
 permalink: docs/components-and-props.html
 redirect_from:
   - "docs/reusable-components.html"
@@ -16,9 +16,9 @@ prev: rendering-elements.html
 next: state-and-lifecycle.html
 ---
 
-Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. This page provides an introduction to the idea of components. You can find a [detailed component API reference here](/docs/react-component.html).
+Components giúp bạn chia nhỏ UI thành những phần độc lập, có thể dùng lại được, và xem xét chúng riêng biệt. Trang này giới thiệu về ý tưởng của component. Bạn có thể tìm thấy [chi tiết API tham khảo của Component ở đây](/docs/react-component.html).
 
-Conceptually, components are like JavaScript functions. They accept arbitrary inputs (called "props") and return React elements describing what should appear on the screen.
+Cơ bản, các component giống như các hàm JavaScript. Chúng nhận vào các tham số bất kì (gọi là "các prop") và trả về những React element mô tả những gì cần hiện trên màn hình.
 
 ## Function and Class Components {#function-and-class-components}
 
